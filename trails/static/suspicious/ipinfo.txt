@@ -68,6 +68,7 @@ mon-ip.com
 mycamip.com
 myexternalip.com
 myglobalip.com
+myip.dnsdynamic.org
 myipaddress.com
 myip.am
 myip.by
@@ -151,6 +152,7 @@ vermiip.es
 vinflag.com
 whatismybrowser.com
 whatismyipaddress.com
+whatismyip.akamai.com
 whatismyip.ca
 whatismyip.com
 whatismyip.com.br
